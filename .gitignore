@@ -9,6 +9,6 @@ test/runner/dom*
 test/coverage/*
 coverage*
 out/*
-
+.vscode
 
 .DS_Store
